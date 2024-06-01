@@ -24,9 +24,11 @@
 <br>
 <br>
 
-|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
-|---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bleedingcorcerer&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=bleedingsorcerer&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bleedingsorcerer&theme=gruvbox)|
+| GitHub Stats                                                                                                      | GitHub Streak Stats                                                                                                      | Top Languages                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| ![](https://github-readme-stats.vercel.app/api?username=bleedingsorcerer&theme=radical&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=bleedingsorcerer&theme=radical&hide_border=false)             | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bleedingsorcerer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
 
-<img align="center" height="350em" width="900em" src="https://leetcard.jacoblin.cool/shreyasi_dutta?theme=light&font=Karma&ext=contest" />
+<img align="center" height="350em" width="1000em" src="https://leetcard.jacoblin.cool/shreyasi_dutta?theme=light&font=Karma&ext=contest" />
