@@ -31,4 +31,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
 
-<img align="center" height="350em" width="1000em" src="https://leetcard.jacoblin.cool/shreyasi_dutta?theme=light&font=Karma&ext=contest" />
+<img align="center" height="350em" width="900em" src="https://leetcard.jacoblin.cool/shreyasi_dutta?theme=light&font=Karma&ext=contest" />
